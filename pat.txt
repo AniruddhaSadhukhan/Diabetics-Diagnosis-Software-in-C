@@ -1,0 +1,19 @@
+
+
+
+Patient number 1
+N A M E        :Ram Roy
+A G E          :18
+W E I G H T    :75.00
+H E I G H T    :5.8
+S E X          :M
+Report          :Secondary Diabetic
+
+
+Patient number 2
+N A M E        :Riya Dey
+A G E          :25
+W E I G H T    :56.00
+H E I G H T    :4.9
+S E X          :F
+Report          :NON INSULIN DEPENDENT DIABETES
